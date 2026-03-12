@@ -1,0 +1,14 @@
+pandas
+requests 
+beautifulsoup4
+rapidfuzz
+nltk
+scikit-learn 
+sentence-transformers
+matplotlib
+vaderSentiment
+shap
+imblearn
+seaborn
+pyarrow
+xgboost
